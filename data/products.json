@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "category": "smart-gadgets",
+    "name": "Echo Dot (5th Gen) Smart Speaker",
+    "shortDescription": "Compact smart speaker with Alexa — control your smart home, play music, and get answers hands-free.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/714Rq4k05UL._AC_SL1000_.jpg",
+    "video": "https://www.youtube.com/embed/lMcAuHF39SI",
+    "affiliateLink": "https://www.amazon.com/dp/B09B8V1LZ3?tag=smartlivinghub-20",
+    "benefits": [
+      "Hands-free voice control",
+      "Compatible with 100,000+ smart home devices",
+      "Improved audio quality over previous gen",
+      "Built-in Eero Wi-Fi extender"
+    ],
+    "pros": [
+      "Affordable entry price",
+      "Excellent Alexa integration",
+      "Compact and stylish design",
+      "Great sound for size"
+    ],
+    "cons": [
+      "Requires Amazon ecosystem",
+      "Privacy concerns with always-on mic",
+      "Bass is limited vs larger speakers"
+    ],
+    "rating": 4.7,
+    "badge": "Editor's Choice"
+  },
+  {
+    "id": 2,
+    "category": "smart-gadgets",
+    "name": "Govee RGBIC Smart LED Strip Lights",
+    "shortDescription": "App-controlled multicolor LED strips with music sync and voice assistant compatibility.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
+    "video": "https://www.youtube.com/embed/9bZkp7q19f0",
+    "affiliateLink": "https://www.amazon.com/dp/B08M9HND4F?tag=smartlivinghub-20",
+    "benefits": [
+      "16 million color combinations",
+      "Works with Alexa and Google Home",
+      "Music sync mode",
+      "Easy DIY installation"
+    ],
+    "pros": [
+      "Vibrant colors with RGBIC tech",
+      "Intuitive app control",
+      "Budget-friendly price",
+      "Flexible and cuttable"
+    ],
+    "cons": [
+      "App can be buggy occasionally",
+      "Adhesive may lose grip over time",
+      "Limited to 16.4 ft per strip"
+    ],
+    "rating": 4.5,
+    "badge": "Best Value"
+  },
+  {
+    "id": 3,
+    "category": "home-essentials",
+    "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "shortDescription": "Replace 7 kitchen appliances with one smart cooker — pressure cook, slow cook, rice, steam, sauté, warm & sterilize.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71V1GmFXFcL._AC_SL1500_.jpg",
+    "video": "https://www.youtube.com/embed/tRrZenOdRoc",
+    "affiliateLink": "https://www.amazon.com/dp/B00FLYWNYQ?tag=smartlivinghub-20",
+    "benefits": [
+      "Replaces 7 kitchen appliances",
+      "Cooks up to 70% faster than traditional methods",
+      "14 built-in smart programs",
+      "Dishwasher-safe parts"
+    ],
+    "pros": [
+      "Huge time saver",
+      "Versatile cooking modes",
+      "Easy to clean",
+      "Great for meal prep"
+    ],
+    "cons": [
+      "Learning curve for beginners",
+      "Bulky for small kitchens",
+      "Lid must be stored separately"
+    ],
+    "rating": 4.8,
+    "badge": "Top Seller"
+  },
+  {
+    "id": 4,
+    "category": "home-essentials",
+    "name": "eufy Robot Vacuum RoboVac 11S",
+    "shortDescription": "Ultra-slim, quiet robotic vacuum with BoostIQ Technology — cleans hard floors and carpets automatically.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71HCgdEkLpL._AC_SL1500_.jpg",
+    "video": "https://www.youtube.com/embed/Q3NBI2IOKBI",
+    "affiliateLink": "https://www.amazon.com/dp/B079QYYGF1?tag=smartlivinghub-20",
+    "benefits": [
+      "Ultra-slim 2.85\" profile fits under furniture",
+      "BoostIQ auto-adjusts suction",
+      "100-minute battery life",
+      "Auto self-charging"
+    ],
+    "pros": [
+      "Whisper-quiet operation",
+      "Slim enough for sofas and beds",
+      "Strong suction for size",
+      "Affordable robovac"
+    ],
+    "cons": [
+      "No app or Wi-Fi control",
+      "Random navigation (not mapped)",
+      "Dustbin is small"
+    ],
+    "rating": 4.6,
+    "badge": "Staff Pick"
+  },
+  {
+    "id": 5,
+    "category": "smart-gadgets",
+    "name": "TP-Link Kasa Smart Plug Mini",
+    "shortDescription": "Turn any outlet smart — schedule, control, and monitor energy usage from your phone or voice assistant.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61jCBNRIIHL._AC_SL1001_.jpg",
+    "video": "",
+    "affiliateLink": "https://www.amazon.com/dp/B07RCNB2L3?tag=smartlivinghub-20",
+    "benefits": [
+      "Works with Alexa, Google Home & SmartThings",
+      "Energy monitoring built-in",
+      "Schedule and timer functions",
+      "No hub required"
+    ],
+    "pros": [
+      "Very affordable",
+      "Reliable connection",
+      "Compact design",
+      "Easy setup"
+    ],
+    "cons": [
+      "2.4GHz only (no 5GHz)",
+      "App UI could be improved",
+      "Limited advanced automation"
+    ],
+    "rating": 4.6,
+    "badge": ""
+  },
+  {
+    "id": 6,
+    "category": "home-essentials",
+    "name": "OXO Good Grips Stainless Steel Dish Rack",
+    "shortDescription": "Premium dish drying rack with a swivel spout that directs water right into the sink — no mess, no fuss.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71yXG1e+3tL._AC_SL1500_.jpg",
+    "video": "",
+    "affiliateLink": "https://www.amazon.com/dp/B00IOTZPLA?tag=smartlivinghub-20",
+    "benefits": [
+      "Swivel spout directs water to sink",
+      "Rust-resistant stainless steel",
+      "Non-slip feet stay in place",
+      "Fits wide and standard sinks"
+    ],
+    "pros": [
+      "Excellent build quality",
+      "Clean minimal design",
+      "Easy to empty water tray",
+      "Holds many dishes"
+    ],
+    "cons": [
+      "Premium price vs competitors",
+      "Can take counter space",
+      "Utensil holder sold separately"
+    ],
+    "rating": 4.7,
+    "badge": ""
+  },
+  {
+    "id": 7,
+    "category": "smart-gadgets",
+    "name": "Anker 737 Power Bank (PowerCore 24K)",
+    "shortDescription": "140W fast-charging power bank with a digital display — charges laptops, tablets and phones at blazing speed.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61CGHv6kmWL._AC_SL1500_.jpg",
+    "video": "https://www.youtube.com/embed/C7NqfwFd2mU",
+    "affiliateLink": "https://www.amazon.com/dp/B09VPHVT2Z?tag=smartlivinghub-20",
+    "benefits": [
+      "140W bidirectional charging",
+      "24,000mAh massive capacity",
+      "Smart digital display shows charge %",
+      "Charges MacBook Pro in ~1.5 hours"
+    ],
+    "pros": [
+      "Charges laptops & phones simultaneously",
+      "Fast recharge via USB-C",
+      "Premium feel and build",
+      "Smart display is very useful"
+    ],
+    "cons": [
+      "Heavy at 1.5 lbs",
+      "Expensive",
+      "May trigger airline limits on capacity"
+    ],
+    "rating": 4.8,
+    "badge": "Editor's Choice"
+  },
+  {
+    "id": 8,
+    "category": "home-essentials",
+    "name": "Beckham Hotel Collection Bed Pillows (Set of 2)",
+    "shortDescription": "Luxury hotel-quality gel-fiber pillows — cooling, supportive, and machine washable for all sleep positions.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81F3ZJBT0aL._AC_SL1500_.jpg",
+    "video": "",
+    "affiliateLink": "https://www.amazon.com/dp/B01LXH3HBJ?tag=smartlivinghub-20",
+    "benefits": [
+      "Cooling gel-fiber fill",
+      "Works for all sleep positions",
+      "Machine washable and dryer safe",
+      "Plush hotel-quality softness"
+    ],
+    "pros": [
+      "Incredibly affordable for quality",
+      "Stays cool through the night",
+      "Doesn't go flat quickly",
+      "Great for sensitive necks"
+    ],
+    "cons": [
+      "May feel too soft for stomach sleepers",
+      "Fill can shift with heavy use",
+      "Not ideal for very firm preference"
+    ],
+    "rating": 4.5,
+    "badge": "Best Value"
+  }
+]
